@@ -1,5 +1,5 @@
 header{
-    background-color: mediumslateblue;
+    background-color: plum;
     text-align: center;
 }
 
@@ -9,7 +9,7 @@ h3 {
 }
 
 body{
-    background-color: #f2f4f7 ;
+    background-color: whitesmoke ;
 }
 
 *{
@@ -36,4 +36,18 @@ img {
     font-size: 16px;
     display: inline-block;
     margin: 10px;
+}
+
+#songs {
+    width: 30%;
+    background-color: plum;
+    border: 1px solid black;
+    padding:10px;
+}
+
+#album {
+    width: 30%;
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+    padding: 10px;
 }
